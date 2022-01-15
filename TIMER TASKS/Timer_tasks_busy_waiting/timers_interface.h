@@ -79,7 +79,7 @@
 #define u8_WAITING_FIRST_INT_WAIT_NOT_BEGIN			21
 #define u8_FINISH_INTERRUPT_WAITING					22
 #define u8_BEGIN_INTERRUPT_WAITING					23
-#define u8_INTIAL_COUNTER_VAL						24
+#define u8_INTIAL_COUNTER_VAL						0
 #define u8_Flag_RAISED								1
 
 
