@@ -15,12 +15,6 @@
 
 
 
-// Timer0 registers
-#define u8_OCR0  							*((volatile uint8_t*)0x5C)
-#define u8_TIMSK 							*((volatile uint8_t*)0x59)
-#define u8_TIFR  							*((volatile uint8_t*)0x58)
-#define u8_TCNT0 							*((volatile uint8_t*)0x52)
-#define u8_TCCR0 							*((volatile uint8_t*)0x53)
 
 //TIMER CONFIG MODES
 #define u8_NORMAL_MODE										1
